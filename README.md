@@ -1,70 +1,16 @@
-# Getting Started with Create React App
+Project Summary:
+A React-based landing page displaying SpaceX rocket information. The project includes a modern banner, a search form with three filters (Rocket Name, Original Launch, and Rocket Type), and a dynamic data grid showcasing detailed rocket information.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project Description:
+This project is a React-based landing page designed to showcase SpaceX rocket details in an engaging and user-friendly manner. The landing page consists of three main sections: a visually appealing banner, a robust search form with three filters for enhanced user experience, and a dynamic data grid presenting rocket information.
 
-## Available Scripts
+The implementation involves integrating the SpaceX REST API to fetch and update rocket data. The banner layout is designed with a modern and responsive approach, showcasing UI skills. The search form allows users to filter rockets based on name, launch details, and rocket type, providing a flexible and efficient search experience.
 
-In the project directory, you can run:
+Video Demo: 
 
-### `npm start`
+https://github.com/saylinpatil/sayali-patil-Frontend-Developer/assets/123541865/3e266a44-7b5f-43b0-ae8f-8918442d3219
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="1429" alt="Screenshot 2024-01-19 at 3 41 30 PM" src="https://github.com/saylinpatil/sayali-patil-Frontend-Developer/assets/123541865/16cbd0d0-58f1-4b8b-be47-5a090fe34584">
+<img width="1435" alt="Screenshot 2024-01-19 at 3 41 55 PM" src="https://github.com/saylinpatil/sayali-patil-Frontend-Developer/assets/123541865/437fe2b4-7d02-4825-ae89-668b5f68a25f">
+<img width="1411" alt="Screenshot 2024-01-19 at 3 42 26 PM" src="https://github.com/saylinpatil/sayali-patil-Frontend-Developer/assets/123541865/b30ea4fe-9b0f-4d09-beb1-5462cd52815d">
+<img width="1436" alt="Screenshot 2024-01-19 at 3 42 45 PM" src="https://github.com/saylinpatil/sayali-patil-Frontend-Developer/assets/123541865/8458cf7f-bec0-49be-affc-82f5e93f3d76">
