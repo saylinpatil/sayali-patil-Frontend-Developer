@@ -1,0 +1,30 @@
+.rocket-image-Header-slider {
+    width: 100%;
+    height: 95vh;
+   
+}
+
+.slider-caption {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100%;
+    padding: 0 20px;
+    text-align: left;
+    color: white;
+}
+
+.Carousel-title {
+    font-size: 5em;
+    font-weight: bold;
+    text-align: left;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    letter-spacing: 2px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.Carousel-message {
+    font-size:2em;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
